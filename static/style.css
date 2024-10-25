@@ -1,0 +1,19 @@
+.chatbox {
+    width: 500px;
+    margin: 50px auto;
+    border: 2px solid #ccc;
+    padding: 10px;
+}
+#chat-log {
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+.user-message {
+    text-align: right;
+    color: blue;
+}
+.bot-message {
+    text-align: left;
+    color: green;
+}
